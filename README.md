@@ -1,0 +1,1 @@
+Implementing a Neural Network from scratch followign this tutorial - https://www.youtube.com/watch?v=w8yWXqWQYmU&list=PLEZXftyxxMN2Sn_fCo77MW8kDpP_5B_ab&index=61&t=132s
